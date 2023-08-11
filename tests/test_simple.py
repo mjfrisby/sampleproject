@@ -3,6 +3,8 @@
 # setup.py that excludes installing the "tests" package
 
 import unittest
+## Insert one change here
+import logging
 
 from sample.simple import add_one
 
